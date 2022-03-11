@@ -24,3 +24,6 @@ client = Client(config.BINANCE_KEY, config.BINANCE_SECRET)
 ```
 
 A simple but not efficient bot because textblob method is not perfect to find the sentiment of sentence.
+```
+By Muhammad Hanan Asghar
+```
